@@ -1,0 +1,94 @@
+baseURL: https://localhost:1313/
+title: Miguel Wood Jr.
+languageCode: en-us
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Miguel Wood Jr.
+  keywords: [blog, portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  disableShare: true
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: true
+    title: "Miguel Wood Jr."
+    subtitle: "17 Years Old - Studying Computer Science and System Administration"
+    imageUrl: "images/pfp.jpg"
+    imageWidth: 256 # custom size
+    imageHeight: 256 # custom size
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/mwoodjr"
+    - name: "X"
+      url: "https://x.com/justmiguelbtw"
+    - name: "Instagram"
+      url: "https://instagram.com/miguel.wood.jr/"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: about-me
+      name: About Me
+      url: /about-me
+      weight: 2
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
