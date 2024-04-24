@@ -9,7 +9,7 @@ TocOpen: false
 draft: false
 comments: false
 description: 
-canonicalURL:
+canonicalURL: 
 disableHLJS: true # to disable highlightjs
 ShowPostNavLinks: false
 ShowWordCount: false
