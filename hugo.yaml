@@ -46,7 +46,7 @@ params:
     enabled: true
     title: "Miguel Wood Jr."
     subtitle: "17 Years Old - Studying Computer Science and System Administration"
-    imageUrl: "images/pfp.jpg"
+    imageUrl: "/images/pfp.jpg"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
 
