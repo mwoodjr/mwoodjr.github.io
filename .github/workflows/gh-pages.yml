@@ -58,7 +58,7 @@ jobs:
         run: | 
           hugo \
             --buildDrafts --gc \
-            --baseURL ${{ steps.pages.outputs.page_url }}
+            --baseURL ${{ steps.pages.outputs.base_url }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -68,7 +68,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.base_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
