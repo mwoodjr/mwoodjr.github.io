@@ -49,10 +49,10 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
-      - name: Get Theme
-        run: git submodule update --init --recursive
-      - name: Update theme to Latest commit
-        run: git submodule update --remove --merge
+      #- name: Get Theme
+        #run: git submodule update --init --recursive
+      #- name: Update theme to Latest commit
+        #run: git submodule update --remove --merge
       - name: Build with Hugo
         run: | 
           hugo \
