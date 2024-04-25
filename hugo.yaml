@@ -52,7 +52,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-35938185EH"
 
   fuseOpts:
     isCaseSensitive: false
@@ -72,6 +72,9 @@ params:
       url: "https://x.com/justmiguelbtw"
     - name: "Instagram"
       url: "https://instagram.com/miguel.wood.jr/"
+    # send email with subject "Business Inqiry"
+    - name: "Email"
+      url: "mailto:miguel@mwoodjr.com"
 
 menu:
   main:
