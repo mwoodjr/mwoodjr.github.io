@@ -3,7 +3,7 @@ title: "About Me"
 date: 2024-04-24T10:44:03+00:00
 # weight: 1
 aliases: ["/about-me"]
-author: "Miguel Wood Jr."
+author: "Miguel Wood Jr"
 showToc: false
 TocOpen: false
 draft: false
