@@ -52,6 +52,9 @@ params:
     imageUrl: "/images/pfp.png"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
+    buttons:
+      - name: Source Code
+        url: https://github.com/mwoodjr/mwoodjr.github.io
 
   fuseOpts:
     isCaseSensitive: false
@@ -71,7 +74,6 @@ params:
       url: "https://x.com/justmiguelbtw"
     - name: "Instagram"
       url: "https://instagram.com/miguel.wood.jr/"
-    # send email with subject "Business Inqiry"
     - name: "Email"
       url: "mailto:miguel@mwoodjr.com"
 
