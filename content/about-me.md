@@ -16,32 +16,34 @@ ShowWordCount: false
 UseHugoToc: true
 ---
 
-Howdy! I'm Miguel! I'm a student at Plano East Senior High School. I've always been interested in how technology shapes our daily lives from a very young age, which led me to pursue a career where I could explore and learn new things.
+Howdy! I'm Miguel! I'm a student at Plano East Senior High School, currently enjoying my Senior year. I've always been captivated by how technology shapes our lives, which inspired me to pursue a career that combines creativity, innovation, and my love for computers.
 
 ## My Journey
 
-I was born and raised in Dallas, Texas. From the day I was born, I was fascinated by anything with an on-and-off switch. I would sit with my father as he tinkered with his custom-built computer, and as a toddler, I would try my best to help him.
+I was born and raised in Dallas, Texas. My fascination with technology began early—I was the kid who was always curious about how things worked. I’d often sit with my father as he tinkered with his custom-built computer, trying to learn as much as I could. By the time I was seven, I was installing operating systems on my computer, experimenting, and diving deeper into the tech world.
 
 &nbsp;
 
-![test](/images/young-me-computer.png) 
-*7 Year Old Me installing Windows 10 Alpha Pre-Release on my Computer*
+![test](/images/young-me-computer.png)  
+*7-Year-Old Me installing Windows 10 Alpha Pre-Release on my Computer*
 
 ## Education
 
-I am currently working to graduate high school and pursue a career in Business with a focus on Tech. My whole life I've always wanted to work with computers and technology, it's my dream job. In Middle School, I took my first entry-level computer science class where we were just making shapes in Python, but it did come with a free Repl.it subscription so that helped with me making little side projects and learning more than my peers. In High School, I took CS1 learning Java and was approached by my teacher during the first quarter about my expertise and knowledge that suprassed my own teacher. Safe to say she was impressed and she granted me special permission to take AP Computer Science Fundamentals as an "extracurricular" since that was the class that I initially wanted to be put into however due to class size complications it wasn't possible. Now it was! 
+I'm currently preparing to graduate high school and pursue a career at the intersection of Business and Technology. My passion for computers blossomed in middle school when I took my first computer science class. It was a humble beginning—drawing shapes in Python—but it sparked something bigger. 
+
+In high school, I advanced my skills further by excelling in Java during CS1, which caught the attention of my teacher. She recognized my potential and granted me special permission to take AP Computer Science Fundamentals as an extracurricular. That opportunity became a pivotal moment in my journey, solidifying my desire to innovate and create in the tech field.
 
 ## Beyond the Classroom
 
-Outside of my education, I am fun, easy-going, and extroverted! I’m always looking for new opportunities to challenge myself, grow, and develop to be the best version of myself I can be.
+Outside academics, I’m a fun, easy-going, and extroverted person who enjoys tackling challenges and collaborating with others. 
 
-- **Fine Arts:** I’ve been doing choir since 6th grade and have no plans to stop! I enjoy working as a team with others and the enjoyment of everyone around me whenever we accomplish a new goal as a choir. I was also in the top jazz choir my Sophomore year in Junior High school, and I’m currently in the top choral choir and show choir for my Senior High.
+- **Fine Arts:** Music has always been a significant part of my life. I've been in choir since 6th grade and continued my journey through show choir and jazz ensembles. During my sophomore year, I performed in the top jazz choir at my junior high school. Now, as a senior at Plano East, I’m proud to be a part of both the top choral choir and show choir. Working with my peers in these groups is incredibly rewarding, and I cherish every moment of performing and growing together.  
 
 &nbsp;
 
-![show choir](/images/show-choir.png)
-*My Sophomore Year Spring Show Choir Performance (i don't know how to play the guitar)*
+![show choir](/images/show-choir.png)  
+*My Sophomore Year Spring Show Choir Performance*
 
 ## Looking Ahead
 
-I am always eager to explore opportunities that allow me to contribute to meaningful projects that leverage technology to improve lives. I am particularly interested in the fields of educational technology and sustainable computing, especially in today’s modern age, where it seems that there’s something new every day!
+I'm always on the lookout for opportunities to contribute to meaningful projects that leverage technology to solve real-world problems. My interests lie in areas like educational technology and sustainable computing—fields where I believe I can make a lasting impact. The rapid pace of technological innovation excites me, and I can’t wait to be a part of shaping the future.

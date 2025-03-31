@@ -9,17 +9,25 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.125.3</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Apr 2024 10:44:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 09:15:22 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deez Nuts</title>
+      <link>http://localhost:1313/projects/deeznuts/</link>
+      <pubDate>Mon, 18 Nov 2024 09:15:22 -0600</pubDate>
+      <guid>http://localhost:1313/projects/deeznuts/</guid>
+      <description>How I turned a funny joke into an app with 250,000&#43; users.</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about-me/</link>
       <pubDate>Wed, 24 Apr 2024 10:44:03 +0000</pubDate>
       <guid>http://localhost:1313/about-me/</guid>
-      <description>Howdy! I&amp;rsquo;m Miguel! I&amp;rsquo;m a student at Plano East Senior High School studying computer science. I&amp;rsquo;ve always been interested in how technology shapes our daily lives from a very young age, which led me to pursue a career where I could explore and learn new things.
-My Journey I was born and raised in Dallas, Texas. From the day I was born, I was fascinated by anything with an on-and-off switch.</description>
+      <description>&lt;p&gt;Howdy! I&amp;rsquo;m Miguel! I&amp;rsquo;m a student at Plano East Senior High School, currently enjoying my Senior year. I&amp;rsquo;ve always been captivated by how technology shapes our lives, which inspired me to pursue a career that combines creativity, innovation, and my love for computers.&lt;/p&gt;
+&lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;
+&lt;p&gt;I was born and raised in Dallas, Texas. My fascination with technology began early—I was the kid who was always curious about how things worked. I’d often sit with my father as he tinkered with his custom-built computer, trying to learn as much as I could. By the time I was seven, I was installing operating systems on my computer, experimenting, and diving deeper into the tech world.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -48,7 +48,7 @@ params:
   profileMode:
     enabled: true
     title: "Miguel Wood Jr."
-    subtitle: "17 Years Old - Studying Computer Science and System Administration"
+    subtitle: "18 Years Old - Studying System Information & Analytics at Louisiana State University"
     imageUrl: "/images/pfp.png"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
@@ -67,13 +67,11 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 
 
-  socialIcons:
+  social:
     - name: "GitHub"
       url: "https://github.com/mwoodjr"
-    - name: "X"
-      url: "https://x.com/justmiguelbtw"
     - name: "Instagram"
-      url: "https://instagram.com/miguel.wood.jr/"
+      url: "https://instagram.com/miguelwoodjr/"
     - name: "Email"
       url: "mailto:miguel@mwoodjr.com"
 
@@ -87,6 +85,14 @@ menu:
       name: About Me
       url: /about-me
       weight: 2
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 3
+
+taxonomies:
+  tag: "projects"
+  tag: "discord"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
