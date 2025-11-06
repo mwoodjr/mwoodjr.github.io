@@ -17,7 +17,7 @@ I made some small ones, and some larger ones, but the one that really took off w
 
 It was called "Deez Nuts" it's a Discord Bot that would respond to any message that contains a trigger word with a corresponding Deez Nuts joke. It was so dumb but was so funny.
 
-At the height of the pandemic it peaked at about 2,500 guild all across the world, serving over 250,000+ users and being __one of the youngest developers to have a Verified Bot on Discord__.
+At the height of the pandemic it peaked at about 2,500 guild all across the world, serving over 400,000+ users and being __one of the youngest developers to have a Verified Bot on Discord__.
 
 The bot was running for about a year and a half. Currently, the bot is no longer available, it took a lot of time out of my personal life and I couldn't juggle the humungous community alongside my school and extracurricular activites, as well as the fact I was paying out of pocket for the bot.
 
