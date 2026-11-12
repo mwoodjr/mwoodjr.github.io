@@ -1,0 +1,13 @@
+{{- if and .IsHome site.Params.profileMode.enabled }}
+<script>
+    (() => {
+        const subtitle = document.querySelector(".profile_inner > h1 + span");
+        if (!subtitle) return;
+
+        const today = new Date();
+        const birthdayPassed = today.getMonth() > 0 || today.getDate() >= 8;
+        const age = today.getFullYear() - 2007 - Number(!birthdayPassed);
+        subtitle.prepend(`${age} Years Old - `);
+    })();
+</script>
+{{- end }}

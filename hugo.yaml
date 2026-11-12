@@ -48,7 +48,7 @@ params:
   profileMode:
     enabled: true
     title: "Miguel Wood Jr."
-    subtitle: "Information Systems & Analytics at Louisiana State University · Expected graduation May 2029"
+    subtitle: "Studying Information Systems & Analytics at Louisiana State University"
     imageUrl: "/images/pfp.png"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
