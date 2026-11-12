@@ -48,13 +48,17 @@ params:
   profileMode:
     enabled: true
     title: "Miguel Wood Jr."
-    subtitle: "18 Years Old - Studying System Information & Analytics at Louisiana State University"
+    subtitle: "Information Systems & Analytics at Louisiana State University · Expected graduation May 2029"
     imageUrl: "/images/pfp.png"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
     buttons:
-      - name: Source Code
-        url: https://github.com/mwoodjr/mwoodjr.github.io
+      - name: Projects
+        url: /projects/
+      - name: LinkedIn
+        url: https://www.linkedin.com/in/miguelwoodjr/
+      - name: GitHub
+        url: https://github.com/mwoodjr
 
   fuseOpts:
     isCaseSensitive: false
