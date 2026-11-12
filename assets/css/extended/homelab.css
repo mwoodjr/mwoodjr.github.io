@@ -1,0 +1,97 @@
+.homelab-map {
+    --map-surface: #edf5fa;
+    --map-line: #809caf;
+    --map-accent: #245a78;
+    padding: clamp(1rem, 4vw, 2rem);
+    border: 1px solid var(--border);
+    border-radius: 1rem;
+    background: var(--map-surface);
+}
+
+.dark .homelab-map {
+    --map-surface: #1b2933;
+    --map-line: #688ba2;
+    --map-accent: #9ed7f5;
+}
+
+.homelab-map-access {
+    width: fit-content;
+    margin: 0 auto 1.5rem;
+    padding: .65rem 1rem;
+    border: 1px solid var(--map-line);
+    border-radius: .65rem;
+    background: var(--entry);
+    text-align: center;
+}
+
+.homelab-map-access span,
+.homelab-map-hardware {
+    display: block;
+    color: var(--map-accent);
+    font-size: .83rem;
+    font-weight: 600;
+}
+
+.homelab-map-hosts {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: .85rem;
+}
+
+.homelab-map-hosts::before {
+    position: absolute;
+    top: -1.5rem;
+    left: 50%;
+    height: .75rem;
+    border-left: 1px solid var(--map-line);
+    content: "";
+}
+
+.homelab-map-host {
+    position: relative;
+    padding: 1rem;
+    border: 1px solid var(--border);
+    border-top: 3px solid var(--map-accent);
+    border-radius: .65rem;
+    background: var(--entry);
+}
+
+.homelab-map-hosts::after {
+    position: absolute;
+    top: -.75rem;
+    left: 25%;
+    right: 25%;
+    height: .75rem;
+    border: 1px solid var(--map-line);
+    border-bottom: 0;
+    content: "";
+}
+
+.post-content .homelab-map-host p {
+    margin: .4rem 0 0;
+    font-size: .9rem;
+    line-height: 1.55;
+}
+
+.post-content .homelab-map figcaption {
+    margin-top: .85rem;
+    color: var(--secondary);
+    font-size: .8rem;
+    line-height: 1.5;
+}
+
+@media (max-width: 540px) {
+    .homelab-map-hosts {
+        grid-template-columns: 1fr;
+    }
+
+    .homelab-map-access {
+        margin-bottom: .85rem;
+    }
+
+    .homelab-map-hosts::before,
+    .homelab-map-hosts::after {
+        display: none;
+    }
+}
